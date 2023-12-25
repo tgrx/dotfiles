@@ -9,6 +9,7 @@
 
 ## Apps from App Store
 
+- HazeOver
 - Pixelmator Pro
 - Flow
 - Notability
@@ -16,5 +17,4 @@
 ## Apps from Internet
 
 - 4k youtube to mp3
-- HazeOver
 - recordbox
