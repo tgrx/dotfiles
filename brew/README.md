@@ -23,4 +23,4 @@ Check info! It tells how to add `brew` to `$PATH`.
 
 ## Packages
 
-Here is a list of packages: [brew/install.sh](brew/install.sh).
+Here is a list of packages: [brew/install.sh](install.sh).
