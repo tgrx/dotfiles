@@ -19,6 +19,7 @@ formulae=(
 
 cascs=(
 	1password
+	4k-youtube-to-mp3
 	docker
 	electrum
 	firefox
@@ -29,8 +30,10 @@ cascs=(
 	ngrok
 	postman
 	pycharm-ce
+	skype
 	sublime-text
 	tableplus
+	telegram
 	vlc
 	xmind
 )
