@@ -6,8 +6,10 @@ taps=(
 
 formulae=(
 	font-fira-code
+	gettext
 	go-task
 	htop
+	jq
 	lsd
 	node
 	pyenv
