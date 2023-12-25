@@ -19,6 +19,7 @@ formulae=(
 
 cascs=(
 	1password
+	docker
 	electrum
 	firefox
 	fork
