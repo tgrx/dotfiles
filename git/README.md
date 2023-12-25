@@ -1,14 +1,11 @@
 # Git stuff
 
----
-
-## Changelog
+### Changelog
 
 | When        | Why                                                           |
 |-------------|---------------------------------------------------------------|
 | 2023-12-25  | Initial doc
 
----
 
 ## How to install
 
@@ -16,6 +13,7 @@
 2. type `git`
 3. wait for 20+ Gb of Xcode shit
 4. enjoy
+
 
 ## Oh shit, Git!
 
@@ -29,4 +27,3 @@ git commit \
 ```
 
 Link: [Stack Overflow](https://stackoverflow.com/questions/3042437)
-

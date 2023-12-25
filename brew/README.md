@@ -1,14 +1,12 @@
 # HomeBrew setup
 
----
 
-## Changelog
+### Changelog
 
 | When        | Why                                                           |
 |-------------|---------------------------------------------------------------|
 | 2023-12-25  | Initial doc
 
----
 
 ## How to install
 
@@ -21,6 +19,7 @@ Shell one-liner:
 ```
 
 Check info! It tells how to add `brew` to `$PATH`.
+
 
 ## Packages
 
