@@ -4,7 +4,7 @@ taps=(
 	homebrew/cask-fonts
 )
 
-kegs=(
+formulae=(
 	font-fira-code
 	go-task
 	htop
@@ -12,6 +12,7 @@ kegs=(
 	node
 	pyenv
 	tree
+	xz
 )
 
 cascs=(
@@ -42,9 +43,9 @@ brew tap
 echo
 
 
-echo "[ kegs ]"
-for i in $kegs; do
-	echo "👉 keg: $i"
+echo "[ formulae ]"
+for i in $formulae; do
+	echo "👉 formula: $i"
 	brew install --verbose --require-sha $i;
 	echo;
 done
