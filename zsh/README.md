@@ -28,3 +28,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ## Powerline 10k
 
+Official site: [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+
+Brew it:
+
+```shell
+brew install powerlevel10k
+echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc
+```
