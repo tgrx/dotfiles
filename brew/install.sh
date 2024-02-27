@@ -22,6 +22,7 @@ cascs=(
 	4k-youtube-to-mp3
 	docker
 	electrum
+	eloston-chromium
 	firefox
 	fork
 	keka
