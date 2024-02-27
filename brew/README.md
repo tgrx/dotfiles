@@ -5,8 +5,8 @@
 
 | When        | Why                                                           |
 |-------------|---------------------------------------------------------------|
-| 2023-12-25  | Initial doc
-
+| 2023-12-25  | Initial doc                                                   |
+| 2024-02-27  | added cask: [eloston-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
 
 ## How to install
 
