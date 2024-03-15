@@ -7,7 +7,7 @@
 |-------------|---------------------------------------------------------------|
 | 2023-12-25  | Initial doc                                                   |
 | 2024-02-27  | added cask: [eloston-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
-| 2024-03-15  | added cask: [telegram](https://macos.telegram.org/) |
+| 2024-03-15  | added cask: [telegram](https://macos.telegram.org/), removed [pycahrm-ce](https://www.jetbrains.com/pycharm/) |
 
 ## How to install
 
