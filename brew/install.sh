@@ -30,7 +30,6 @@ cascs=(
 	mullvadvpn
 	ngrok
 	postman
-	pycharm-ce
 	skype
 	sublime-text
 	tableplus
