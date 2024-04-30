@@ -5,16 +5,16 @@ taps=(
 )
 
 formulae=(
+	awscli
 	font-fira-code
-	gettext
+	font-iosevka-curly
 	go-task
 	htop
 	jq
 	lsd
-	node
-	pyenv
+	powerlevel10k
+	tmux
 	tree
-	xz
 )
 
 cascs=(

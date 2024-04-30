@@ -8,7 +8,7 @@
 | 2023-12-25  | Initial doc                                                   |
 | 2024-02-27  | added cask: [eloston-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
 | 2024-03-15  | added cask: [telegram](https://macos.telegram.org/), removed [pycahrm-ce](https://www.jetbrains.com/pycharm/) |
-| 2024-04-30  | described some useful commands; added cask: `zoom` |
+| 2024-04-30  | described some useful commands;<br>added casks:<ul><li>`awscli`: need for local development, however might be better to use within devcontainer;</li><li>`font-iosevka-curly`: a beautiful monospaced font;</li><li>`powerlevel10k`: zsh theme;</li><li>`tmux`: need for remote connections to the host</li><li>`zoom`: some people use it for calls</li></ul><br>removed casks:<ul><li>`gettext`: unknown use;</li><li>`node`: I can use it within devcontainer;</li><li>`pyenv`: I can use it within devcontainer;</li><li>`xz`: unknown use;</li></ul> |
 
 ## How to install
 
