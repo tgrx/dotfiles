@@ -8,6 +8,7 @@
 | 2023-12-25  | Initial doc                                                   |
 | 2024-02-27  | added cask: [eloston-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
 | 2024-03-15  | added cask: [telegram](https://macos.telegram.org/), removed [pycahrm-ce](https://www.jetbrains.com/pycharm/) |
+| 2024-04-30  | described some useful commands |
 
 ## How to install
 
@@ -25,3 +26,16 @@ Check info! It tells how to add `brew` to `$PATH`.
 ## Packages
 
 Here is a list of packages: [brew/install.sh](install.sh).
+
+## Commands
+
+```bash
+# Get a list of items which depend on the target:
+brew deps --tree --installed <target>
+
+# Get a list of a target's requirements:
+brew info <target>
+
+# Get a list of installed items
+brew list
+```
