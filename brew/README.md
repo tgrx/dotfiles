@@ -33,6 +33,9 @@ Here is a list of packages: [brew/install.sh](install.sh).
 # Get a list of items which depend on the target:
 brew deps --tree --installed <target>
 
+# Get all packages which use a target:
+brew uses --installed <target>
+
 # Get a list of a target's requirements:
 brew info <target>
 
