@@ -36,6 +36,7 @@ cascs=(
 	telegram
 	vlc
 	xmind
+	zoom
 )
 
 
