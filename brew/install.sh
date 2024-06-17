@@ -1,7 +1,6 @@
 #!/bin/zsh
 
 taps=(
-	homebrew/cask-fonts
 )
 
 formulae=(
