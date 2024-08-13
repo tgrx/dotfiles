@@ -33,6 +33,7 @@ cascs=(
 	sublime-text
 	tableplus
 	telegram
+	visual-studio-code
 	vlc
 	xmind
 	zoom
