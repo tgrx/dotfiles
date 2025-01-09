@@ -35,7 +35,6 @@ cascs=(
 	telegram
 	visual-studio-code
 	vlc
-	xmind
 	zoom
 )
 
