@@ -28,6 +28,7 @@ cascs=(
 	macdown
 	mullvadvpn
 	ngrok
+ 	obsidian
 	postman
 	skype
 	sublime-text
