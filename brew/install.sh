@@ -28,6 +28,7 @@ cascs=(
 	macdown
 	mullvadvpn
 	ngrok
+ 	obsidian
 	postman
 	skype
 	sublime-text
@@ -35,7 +36,6 @@ cascs=(
 	telegram
 	visual-studio-code
 	vlc
-	xmind
 	zoom
 )
 

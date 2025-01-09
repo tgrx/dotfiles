@@ -9,7 +9,8 @@
 | 2024-02-27  | added cask: [eloston-chromium](https://github.com/ungoogled-software/ungoogled-chromium) |
 | 2024-03-15  | added cask: [telegram](https://macos.telegram.org/), removed [pycahrm-ce](https://www.jetbrains.com/pycharm/) |
 | 2024-04-30  | described some useful commands;<br>added casks:<ul><li>`awscli`: need for local development, however might be better to use within devcontainer;</li><li>`font-iosevka-curly`: a beautiful monospaced font;</li><li>`powerlevel10k`: zsh theme;</li><li>`tmux`: need for remote connections to the host</li><li>`zoom`: some people use it for calls</li></ul><br>removed casks:<ul><li>`gettext`: unknown use;</li><li>`node`: I can use it within devcontainer;</li><li>`pyenv`: I can use it within devcontainer;</li><li>`xz`: unknown use;</li></ul> |
-| 2024-08-13  | added `visual-studio-code` |
+| 2024-08-13  | added [Visual Studio Code](https://code.visualstudio.com) |
+| 2025-01-09  | removed [Xmind](https://xmind.app) - replaced by [Obsidian](https://obsidian.md) |
 
 ## How to install
 
