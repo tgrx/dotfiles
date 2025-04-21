@@ -12,6 +12,7 @@ formulae=(
 	jq
 	lsd
 	powerlevel10k
+	pyenv
 	tmux
 	tree
 )
