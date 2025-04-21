@@ -11,6 +11,7 @@
 | 2024-04-30  | described some useful commands;<br>added casks:<ul><li>`awscli`: need for local development, however might be better to use within devcontainer;</li><li>`font-iosevka-curly`: a beautiful monospaced font;</li><li>`powerlevel10k`: zsh theme;</li><li>`tmux`: need for remote connections to the host</li><li>`zoom`: some people use it for calls</li></ul><br>removed casks:<ul><li>`gettext`: unknown use;</li><li>`node`: I can use it within devcontainer;</li><li>`pyenv`: I can use it within devcontainer;</li><li>`xz`: unknown use;</li></ul> |
 | 2024-08-13  | added [Visual Studio Code](https://code.visualstudio.com) |
 | 2025-01-09  | removed [Xmind](https://xmind.app) - replaced by [Obsidian](https://obsidian.md) |
+| 2025-04-21  | added [pyenv](https://github.com/pyenv/pyenv) |
 
 ## How to install
 
