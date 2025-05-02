@@ -29,9 +29,8 @@ cascs=(
 	macdown
 	mullvadvpn
 	ngrok
- 	obsidian
+	obsidian
 	postman
-	skype
 	sublime-text
 	tableplus
 	telegram
