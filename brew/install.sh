@@ -5,6 +5,7 @@ taps=(
 
 formulae=(
 	awscli
+	ffmpeg
 	font-fira-code
 	font-iosevka-curly
 	go-task
@@ -29,14 +30,12 @@ cascs=(
 	macdown
 	mullvadvpn
 	ngrok
- 	obsidian
+	obsidian
 	postman
-	skype
 	sublime-text
 	tableplus
 	telegram
 	visual-studio-code
-	vlc
 	zoom
 )
 
