@@ -5,6 +5,7 @@ taps=(
 
 formulae=(
 	awscli
+	ffmpeg
 	font-fira-code
 	font-iosevka-curly
 	go-task
@@ -35,7 +36,6 @@ cascs=(
 	tableplus
 	telegram
 	visual-studio-code
-	vlc
 	zoom
 )
 

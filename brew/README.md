@@ -13,6 +13,7 @@
 | 2025-01-09  | removed [Xmind](https://xmind.app) - replaced by [Obsidian](https://obsidian.md) |
 | 2025-04-21  | added [pyenv](https://github.com/pyenv/pyenv) |
 | 2025-05-02  | removed [Skype](https://www.skype.com/en/), it is [retired](https://support.microsoft.com/en-us/skype/skype-is-retiring-in-may-2025-what-you-need-to-know-2a7d2501-427f-485e-8be0-2068a9f90472) |
+| 2025-05-24  | <ol><li>added [ffmpeg](https://www.ffmpeg.org), very useful for screen recording conversion: 10x size compression</li><li>removed [VLC](https://www.videolan.org), not used, not comfortable</li></ol> |
 
 ## How to install
 
