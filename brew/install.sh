@@ -31,11 +31,13 @@ cascs=(
 	mullvadvpn
 	ngrok
 	obsidian
-	postman
 	sublime-text
 	tableplus
 	telegram
+	timescribe
 	visual-studio-code
+	voiden
+	zen-privacy
 	zoom
 )
 
