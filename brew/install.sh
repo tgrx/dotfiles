@@ -5,6 +5,7 @@ taps=(
 
 formulae=(
 	awscli
+ 	direnv
 	ffmpeg
 	font-fira-code
 	font-iosevka-curly
