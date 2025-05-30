@@ -29,7 +29,7 @@ cascs=(
 	fork
 	keka
 	macdown
-	mullvadvpn
+	mullvad-vpn
 	ngrok
 	obsidian
 	sublime-text
