@@ -4,7 +4,6 @@ taps=(
 )
 
 to_be_deleted=(
-	macdown
 )
 
 formulae=(
@@ -55,7 +54,7 @@ done
 brew tap
 echo
 
-echo "[ 🗑️ deletings 🗑️ ]"
+echo "[ 🗑️  deletings 🗑️  ]"
 for i in $to_be_deleted; do
 	echo "💔 delete: $i"
 	brew uninstall $i;
@@ -63,7 +62,7 @@ for i in $to_be_deleted; do
 done
 echo
 
-echo "[ ⚙️ formulae ⚙️ ]"
+echo "[ ⚙️  formulae ⚙️  ]"
 for i in $formulae; do
 	echo "👉 formula: $i"
 	brew install --verbose --require-sha $i;
