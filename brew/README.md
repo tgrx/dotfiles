@@ -16,6 +16,7 @@
 | 2025-05-24  | <ol><li>added [ffmpeg](https://www.ffmpeg.org), very useful for screen recording conversion: 10x size compression</li><li>added [Timescribe](https://timescribe.app)</li><li>added [Voiden](https://voiden.md)</li><li>added [Zen-Privacy](https://zenprivacy.net)</li><li>removed [Postman](https://www.postman.com) in favor of [Voiden](https://voiden.md)</li><li>removed [VLC](https://www.videolan.org), not used, not comfortable</li></ol> |
 | 2025-05-26  | added [direnv 🥁](https://direnv.net) |
 | 2025-06-29  | removed [macdown](https://macdown.uranusjr.com) |
+| 2025-07-24  | removed:<br><ol><li>[Timescribe](https://timescribe.app): shitty</li><li>[Voiden](https://voiden.md): leaves a shit in the system</li><li>[Zen-Privacy](https://zenprivacy.net): does not work</li></ol> |
 
 ## How to install
 
