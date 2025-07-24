@@ -4,6 +4,9 @@ taps=(
 )
 
 to_be_deleted=(
+	timescribe
+	voiden
+	zen-privacy
 )
 
 formulae=(
@@ -36,11 +39,8 @@ cascs=(
 	sublime-text
 	tableplus
 	telegram
-	timescribe
 	ungoogled-chromium
 	visual-studio-code
-	voiden
-	zen-privacy
 	zoom
 )
 
