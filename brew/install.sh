@@ -4,21 +4,20 @@ taps=(
 )
 
 to_be_deleted=(
-	timescribe
-	voiden
-	zen-privacy
 )
 
 formulae=(
 	awscli
- 	direnv
+	direnv
 	ffmpeg
 	font-fira-code
 	font-iosevka-curly
+	fx-upscale
 	go-task
 	htop
 	jq
 	lsd
+	nyan
 	powerlevel10k
 	pyenv
 	tmux
@@ -33,6 +32,7 @@ cascs=(
 	firefox
 	fork
 	keka
+	microsoft-teams
 	mullvad-vpn
 	ngrok
 	obsidian
@@ -79,4 +79,10 @@ for i in $cascs; do
 	echo;
 done
 brew list --casks -l
+echo
+
+
+echo "[ ✨ after ✨ ]"
+brew upgrade --greedy --verbose;
+brew cleanup;
 echo
