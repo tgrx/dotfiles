@@ -17,6 +17,7 @@
 | 2025-05-26  | added [direnv 🥁](https://direnv.net) |
 | 2025-06-29  | removed [macdown](https://macdown.uranusjr.com) |
 | 2025-07-24  | removed:<br><ol><li>[Timescribe](https://timescribe.app): shitty</li><li>[Voiden](https://voiden.md): leaves a shit in the system</li><li>[Zen-Privacy](https://zenprivacy.net): does not work</li></ol> |
+| 2025-07-30  | added:<br><ol><li>[fx-upscale](https://github.com/finnvoor/fx-upscale)</li><li>[nyan](https://github.com/toshimaru/nyan)</li><li>[microsoft-teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software/)</li></ol> |
 
 ## How to install
 
