@@ -21,6 +21,7 @@ formulae=(
 	pyenv
 	tmux
 	tree
+	typtea
 	yq
 )
 
@@ -30,6 +31,7 @@ cascs=(
 	4k-youtube-to-mp3
 	adguard
 	capcut
+	cleanupbuddy
 	docker-desktop
 	electrum
 	firefox

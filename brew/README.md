@@ -18,7 +18,7 @@
 | 2025-06-29 | removed [macdown](https://macdown.uranusjr.com) |
 | 2025-07-24 | removed:<br><ol><li>[Timescribe](https://timescribe.app): shitty</li><li>[Voiden](https://voiden.md): leaves a shit in the system</li><li>[Zen-Privacy](https://zenprivacy.net): does not work</li></ol> |
 | 2025-07-30 | added:<br><ol><li>[fx-upscale](https://github.com/finnvoor/fx-upscale)</li><li>[nyan](https://github.com/toshimaru/nyan)</li><li>[microsoft-teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software/)</li></ol> |
-| 2025-09-09 | added:<br><ol><li>[doxx](https://github.com/bgreenwell/doxx): Terminal document viewer for .docx files</li><li>[yq](https://github.com/mikefarah/yq): JQ for YAML and others</li><li>[adguard](https://adguard.com/): Stand alone ad blocker</li><li>[capcut](https://www.capcut.com/): Video editing and image design platform</li><li>[lens](https://k8slens.dev/): Kubernetes IDE</li><li>[transmission](https://transmissionbt.com/): Open-source BitTorrent client</li></ol> |
+| 2025-09-09 | added:<br><ol><li>[doxx](https://github.com/bgreenwell/doxx): Terminal document viewer for .docx files</li><li>[yq](https://github.com/mikefarah/yq): JQ for YAML and others</li><li>[adguard](https://adguard.com/): Stand alone ad blocker</li><li>[capcut](https://www.capcut.com/): Video editing and image design platform</li><li>[lens](https://k8slens.dev/): Kubernetes IDE</li><li>[transmission](https://transmissionbt.com/): Open-source BitTorrent client</li><li>[CleanupBuddy](https://cleanupbuddy.app/): Clean keyboard and trackpad</li><li>[typtea](https://github.com/ashish0kumar/typtea): typing speed tester</li></ol> |
 
 ## How to install
 
