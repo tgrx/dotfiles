@@ -4,6 +4,7 @@ taps=(
 )
 
 to_be_deleted=(
+	adguard
 )
 
 formulae=(
@@ -29,7 +30,6 @@ formulae=(
 cascs=(
 	1password
 	4k-youtube-to-mp3
-	adguard
 	capcut
 	cleanupbuddy
 	docker-desktop
