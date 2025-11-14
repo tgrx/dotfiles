@@ -4,7 +4,6 @@ taps=(
 )
 
 to_be_deleted=(
-	adguard
 )
 
 formulae=(
