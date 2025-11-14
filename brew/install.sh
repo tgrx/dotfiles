@@ -9,9 +9,8 @@ to_be_deleted=(
 formulae=(
 	awscli
 	direnv
+	doxx
 	ffmpeg
-	font-fira-code
-	font-iosevka-curly
 	fx-upscale
 	go-task
 	htop
@@ -22,16 +21,24 @@ formulae=(
 	pyenv
 	tmux
 	tree
+	typtea
+	yq
 )
+
 
 cascs=(
 	1password
 	4k-youtube-to-mp3
+	capcut
+	cleanupbuddy
 	docker-desktop
 	electrum
 	firefox
+	font-fira-code
+	font-iosevka-curly
 	fork
 	keka
+	lens
 	microsoft-teams
 	mullvad-vpn
 	ngrok
@@ -39,6 +46,7 @@ cascs=(
 	sublime-text
 	tableplus
 	telegram
+	transmission
 	ungoogled-chromium
 	visual-studio-code
 	zoom
