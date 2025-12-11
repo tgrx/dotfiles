@@ -4,6 +4,7 @@ taps=(
 )
 
 to_be_deleted=(
+	ngrok
 )
 
 formulae=(
@@ -30,7 +31,10 @@ cascs=(
 	1password
 	4k-youtube-to-mp3
 	capcut
+	chatgpt
+	claude
 	cleanupbuddy
+	deeper
 	docker-desktop
 	electrum
 	firefox
@@ -41,7 +45,6 @@ cascs=(
 	lens
 	microsoft-teams
 	mullvad-vpn
-	ngrok
 	obsidian
 	sublime-text
 	tableplus
