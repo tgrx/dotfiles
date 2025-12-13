@@ -20,7 +20,7 @@
 | 2025-07-30 | added:<br><ol><li>[fx-upscale](https://github.com/finnvoor/fx-upscale)</li><li>[nyan](https://github.com/toshimaru/nyan)</li><li>[microsoft-teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software/)</li></ol> |
 | 2025-09-09 | added:<br><ol><li>[doxx](https://github.com/bgreenwell/doxx): Terminal document viewer for .docx files</li><li>[yq](https://github.com/mikefarah/yq): JQ for YAML and others</li><li>[capcut](https://www.capcut.com/): Video editing and image design platform</li><li>[lens](https://k8slens.dev/): Kubernetes IDE</li><li>[transmission](https://transmissionbt.com/): Open-source BitTorrent client</li><li>[CleanupBuddy](https://cleanupbuddy.app/): Clean keyboard and trackpad</li><li>[typtea](https://github.com/ashish0kumar/typtea): typing speed tester</li></ol> |
 
-| 2025-12-12 | added:<br><ol><li>[chatgpt](https://chatgpt.com)</li><li>[claude](https://claude.ai)</li></ol><br><br>removed:<ol><li>[ngrok](https://ngrok.com)</li></ol> |
+| 2025-12-12 | added:<br><ol><li>[chatgpt](https://chatgpt.com)</li><li>[claude](https://claude.ai)</li></ol><br><br>removed:<ol><li>[capcut](https://www.capcut.com)</li><li>[ngrok](https://ngrok.com)</li></ol> |
 
 ## How to install
 
