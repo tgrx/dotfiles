@@ -5,6 +5,7 @@ taps=(
 
 to_be_deleted=(
 	capcut
+	fx-upscale
 	ngrok
 )
 
@@ -13,7 +14,6 @@ formulae=(
 	direnv
 	doxx
 	ffmpeg
-	fx-upscale
 	go-task
 	htop
 	jq
