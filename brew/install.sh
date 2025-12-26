@@ -18,6 +18,7 @@ formulae=(
 	htop
 	jq
 	lsd
+	mole
 	nyan
 	powerlevel10k
 	pyenv
