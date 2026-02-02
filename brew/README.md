@@ -65,13 +65,11 @@
 7. Added [typtea](https://github.com/ashish0kumar/typtea): typing speed tester
 
 ### December 2025
-1. Added [chatgpt](https://chatgpt.com): desktop app, no browser
-2. Added [claude](https://claude.ai): desktop app
-2. Added [deeper](https://www.titanium-software.fr/en/deeper.html): mac os tweeker
-4. Added [mole](https://github.com/tw93/Mole): mac cleaner
-5. Removed [capcut](https://www.capcut.com): shitty ads
-6. Removed [fx-upscale](https://github.com/finnvoor/fx-upscale): requires full xcode
-7. Removed [ngrok](https://ngrok.com): enemy ‼️
+1. Added [deeper](https://www.titanium-software.fr/en/deeper.html): mac os tweeker
+2. Added [mole](https://github.com/tw93/Mole): mac cleaner
+3. Removed [capcut](https://www.capcut.com): shitty ads
+4. Removed [fx-upscale](https://github.com/finnvoor/fx-upscale): requires full xcode
+5. Removed [ngrok](https://ngrok.com): enemy ‼️
 
 ## How to install
 Official site: [https://brew.sh](https://brew.sh)

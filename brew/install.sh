@@ -5,6 +5,8 @@ taps=(
 
 to_be_deleted=(
 	capcut
+	chatgpt
+	claude
 	fx-upscale
 	ngrok
 )
@@ -32,8 +34,6 @@ formulae=(
 cascs=(
 	1password
 	4k-youtube-to-mp3
-	chatgpt
-	claude
 	cleanupbuddy
 	deeper
 	docker-desktop
