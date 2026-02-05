@@ -4,6 +4,11 @@ taps=(
 )
 
 to_be_deleted=(
+	capcut
+	chatgpt
+	claude
+	fx-upscale
+	ngrok
 )
 
 formulae=(
@@ -11,11 +16,11 @@ formulae=(
 	direnv
 	doxx
 	ffmpeg
-	fx-upscale
 	go-task
 	htop
 	jq
 	lsd
+	mole
 	nyan
 	powerlevel10k
 	pyenv
@@ -29,8 +34,8 @@ formulae=(
 cascs=(
 	1password
 	4k-youtube-to-mp3
-	capcut
 	cleanupbuddy
+	deeper
 	docker-desktop
 	electrum
 	firefox
@@ -41,7 +46,6 @@ cascs=(
 	lens
 	microsoft-teams
 	mullvad-vpn
-	ngrok
 	obsidian
 	sublime-text
 	tableplus
