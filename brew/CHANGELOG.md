@@ -4,8 +4,9 @@
 1. Added [claude-code](https://claude.com/product/claude-code)
 2. Added [codex](https://github.com/openai/codex)
 3. Added [codex-app](https://openai.com/codex/)
-4. Added [orbstack](https://orbstack.dev/)
-5. Deleted [docker-desktop](https://www.docker.com/products/docker-desktop/)
+4. Added [flux-app](https://justgetflux.com/)
+5. Added [orbstack](https://orbstack.dev/)
+6. Deleted [docker-desktop](https://www.docker.com/products/docker-desktop/)
 
 ## December 2025
 1. Added [deeper](https://www.titanium-software.fr/en/deeper.html): mac os tweeker

@@ -37,6 +37,7 @@ cascs=(
 	deeper
 	electrum
 	firefox
+	flux-app
 	font-fira-code
 	font-iosevka-curly
 	fork
