@@ -4,11 +4,7 @@ taps=(
 )
 
 to_be_deleted=(
-	capcut
-	chatgpt
-	claude
-	fx-upscale
-	ngrok
+	docker-desktop
 )
 
 formulae=(
@@ -34,11 +30,14 @@ formulae=(
 cascs=(
 	1password
 	4k-youtube-to-mp3
+	claude-code
 	cleanupbuddy
+	codex
+	codex-app
 	deeper
-	docker-desktop
 	electrum
 	firefox
+	flux-app
 	font-fira-code
 	font-iosevka-curly
 	fork
@@ -47,6 +46,7 @@ cascs=(
 	microsoft-teams
 	mullvad-vpn
 	obsidian
+	orbstack
 	sublime-text
 	tableplus
 	telegram
