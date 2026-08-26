@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## August 2026
+1. Added [pass](https://www.passwordstore.org) + `pass-otp`, `pass-import`, and `zbar` for QR codes
+2. Added [gpg-suite-no-mail](https://gpgtools.org)
+3. Deleted [1password](https://1password.com) - 60$/yr is shit
+
 ## April 2026
 1. Added [claude-code](https://claude.com/product/claude-code)
 2. Added [codex](https://github.com/openai/codex)

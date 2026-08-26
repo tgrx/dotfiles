@@ -4,6 +4,7 @@ taps=(
 )
 
 to_be_deleted=(
+	1password
 	docker-desktop
 )
 
@@ -18,17 +19,20 @@ formulae=(
 	lsd
 	mole
 	nyan
+	pass
+	pass-import
+	pass-otp
 	powerlevel10k
 	pyenv
 	tmux
 	tree
 	typtea
 	yq
+	zbar
 )
 
 
 cascs=(
-	1password
 	4k-youtube-to-mp3
 	claude-code
 	cleanupbuddy
@@ -41,6 +45,7 @@ cascs=(
 	font-fira-code
 	font-iosevka-curly
 	fork
+	gpg-suite-no-mail
 	keka
 	lens
 	microsoft-teams
