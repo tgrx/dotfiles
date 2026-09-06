@@ -1,7 +1,9 @@
 #!/bin/zsh
 
 taps=(
+	romkatv/powerlevel10k
 )
+
 
 to_be_deleted=(
 	1password
@@ -65,7 +67,7 @@ cascs=(
 echo "[ 📋 taps 📋 ]"
 for i in $taps; do
 	echo "👉 tap: $i"
-	brew tap --verbose $i;
+	brew trust --verbose $i;
 	echo;
 done
 brew tap
