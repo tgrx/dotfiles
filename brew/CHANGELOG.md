@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## September 2026
+1. Added [blackhole-2ch](https://existential.audio/blackhole/): Virtual Audio Driver
+2. Added [claude](https://claude.com/download): Anthropic's official Claude AI desktop app
+3. Added [wezterm](https://wezterm.org/): GPU-accelerated cross-platform terminal emulator and multiplexer
+
 ## August 2026
 1. Added [pass](https://www.passwordstore.org) + `pass-otp`, `pass-import`, and `zbar` for QR codes
 2. Added [gpg-suite-no-mail](https://gpgtools.org)

@@ -36,6 +36,8 @@ formulae=(
 
 cascs=(
 	4k-youtube-to-mp3
+	blackhole-2ch
+	claude
 	claude-code
 	cleanupbuddy
 	codex
@@ -60,6 +62,7 @@ cascs=(
 	transmission
 	ungoogled-chromium
 	visual-studio-code
+	wezterm
 	zoom
 )
 
