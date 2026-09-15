@@ -47,3 +47,5 @@ cask "ungoogled-chromium"
 cask "visual-studio-code"
 cask "wezterm"
 cask "zoom"
+# Free and open-source RSS reader
+cask "netnewswire"
